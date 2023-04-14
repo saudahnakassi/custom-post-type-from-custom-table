@@ -74,7 +74,7 @@ function my_admin() {
         'car_review_meta_box',
         'Informazioni Auto',
         'display_car_review_meta_box',
-        'auto',
+        'Car_reviews',
         'normal',
         'high'
     );
